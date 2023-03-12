@@ -20,8 +20,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a doctoral candidate at Johns Hopkins University and student of the digital humanities.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focuses United States cultural and social history with an emphasis on food. The dissertation looks at food and foodways around late-nineteenth century Chicago and the 1893 World's Fair in an effort to shed light how middle class Americans moved towards a more consumerist outlook on food and eating. In so doing, I contend, consumers lost touch with both processes of food production—occurring at an increasingly industrial scales—and workers performing increasingly rigorous labor in food industries. I'm especially interested in how changing relationships to food impacted individuals along race, class, gender, and ethnic identities and how changing outlooks on food production and consumption contributed to raced, classed, and gendered ideas around food culture and work. The argument unfolds over chapters that attempt to capture a holistic view of food systems - agriculture and the environment, processing and the Union Stock Yards, service and the 1893 Waiters' Strike, public dining, and home economics.
+
+
+In the realm of the digital humanities, I act as head of the digital team of Keywords for Black Louisiana a [LifexCode](https://www.lifexcode.org/) project and co-organizer of the [JHU DH Seminar](https://docs.google.com/document/d/1_3Ra5NJBJFhIgByhW7wci-zIW1PGCUSQ7VRxr8fkFoY/edit). While most of my experience lies in digital scholarly editing, site design, and DH pedagogy, I am increasingly curious about humanities computation and beginning to dabble in a few related projects.
