@@ -2,6 +2,7 @@
     {% for ellie in site.data.menu %}
         {% if steve.subcategories != null %}
         <li><a href="{{ ellie.href }}" class="page-link">{{ ellie.title }}</a>
+        </li>
         <ul class="sub-menu">
         {% for subcategory in ellie.subcategories %}
         <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
@@ -12,4 +13,4 @@
         {% endif %}
         </li>
         {% endfor %}
-        </ul>
+</ul>
