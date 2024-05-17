@@ -3,4 +3,6 @@ layout: page
 title: DH
 permalink: /dh/
 ---
-Under construction!
+# Digital Humanities  
+
+Under construction.
