@@ -48,7 +48,7 @@ Undergraduate Research Fellow under Dr. Olivier Delers, University of Richmond, 
 ### Teaching  
 
 **Fall 2024** | 
-Instructor for Farming America: Food and Power in U.S. History  
+*Instructor for Farming America: Food and Power in U.S. History*  
 Developed a full semester course in the History department (listed)
 
 **Summer 2023, 2024** | 
