@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-[Full version PDF](/Palazzolo_Grad_CV.pdf)
+[Full version PDF](/Palazzolo_Grad_CV.pdf) (Updated May 17, 2024)
 
 ### Education
 
@@ -38,10 +38,16 @@ Undergraduate Research Fellow under Dr. Sydney Watts, University of Richmond, De
 Undergraduate Research Fellow under Dr. Olivier Delers, University of Richmond, Department of Languages, Literatures, and Cultures
 
 ---
-### Teaching
-**Summer 2023** | 
+### Teaching  
+
+**Fall 2024** | 
+Instructor for Farming America: Food and Power in U.S. History  
+Developed a full semester course in the History department (listed)
+
+**Summer 2023, 2024** | 
 *Group Facilitator for JHU Teaching Academy’s Institute Summer Institutes*  
 Center for Teaching Excellence & Innovation, Johns Hopkins University
+
 
 **Spring 2022** | 
 *Teaching Assistant for The American Revolution in Unexpected Places*  
@@ -87,6 +93,18 @@ Department of Languages, Literatures, and Cultures University of Richmond
 
 ---
 ### Conferences and Presentations  
+#### 2025  
+“Making Modern Fare: Labor, Consumerism, and American Food Culture in the Late-Nineteenth Century” in “New Work on the Gilded Age and Progressive Era,” Organization of American Historians, Chicago, IL, Mar. (accepted)
+
+
+#### 2024
+“TEI for Black DH: A Conversation between Revue des Colonies and Keywords for Black Louisiana,” panel member, Textual Encoding Initiative, Buenos Aires, AR, Oct. (submitted)  
+
+“Kinship & (Be)Longing: Confronting Slavery’s Archive through Critical Black DH,” with Olivia Barnard (JHU), Leila Blackbird (UChicago), Dr. Jessica Marie Johnson (JHU), MITH Digital Dialogues, College Park, MD, Apr.  
+
+“Farm to Fair: Race, reunion, and selling American agriculture at the 1893 Columbian Exposition,” 19th C Studies Association, Louisville, KY, Mar.  
+
+
 #### 2023  
 “Developing ‘Kinship and Longing: Keywords for Black Louisiana’” with Chenise Calhoun (Tulane) and Jamya Davis (Xavier NOLA) for DH Caucus panel “Accountability, Affirmations and Algorithms: Digital Approaches to Critical Race & Ethnic Studies,” *American Studies Association*, Montreal, QB, November. (forthcoming) 
 
@@ -127,8 +145,8 @@ Philadelphia's Caterers of Color, 1877-1893,” *Virginia Social Sciences Associ
 ---
 ### Involvement and Service  
 **2021-Present** | *Co-convener* of the Johns Hopkins Digital History Workshop  
-**2023-24** | *Member* of the Association for Documentary Editing Nominating Committee  
-**2023-24** | *Cohort Representative* to the Graduate Student Advisory Board  
+**2023-Present** | *Member* of the Association for Documentary Editing Nominating Committee  
+**2023-Present** | *Cohort Representative* to the Graduate Student Advisory Board  
 **2023** | *Interviewer* for The Black Lunch Table, Archive Director position  
 **2019-20** | *History Department Representative* to the Johns Hopkins Graduate Representation Organization (GRO)  
 **2018-19** | *Student Liaison*, University of Richmond History Department  
@@ -144,6 +162,9 @@ TEI/XML Workshop with Dr. Alex Gil, Columbia University, co-sponsored by
 
 ---
 ### Fellowships, Scholarships, and Awards  
+**2024-25**	| Winterthur Library Short-Term Research Fellowship ($1,250)
+**2024-25**	| Steinberg Fellowship, Johns Hopkins University ($2,000)
+**2024-25**	| Dean’s Teaching Fellowship, JHU Krieger School of Arts and Sciences ($13,455)
 **2022-23**	| Digital Dissertation Fellow, JHU Center for Digital Humanities and Diaspora Solidarities Lab (Mellon Foundation, MSU, JHU; $32,500)  
 **2023** | John Russell-Wood Memorial Conference Travel Grant  
 **2022** | Sidney W. Mintz Fellowship, Johns Hopkins University ($3000)  
@@ -157,8 +178,12 @@ TEI/XML Workshop with Dr. Alex Gil, Columbia University, co-sponsored by
 ---
 ### Professional Affiliations  
 American Historical Association  
+American Studies Association  
 Society for Historians of the Gilded Age and Progressive Era  
+Nineteenth Century Studies Association  
+Agricultural History Society  
 Association for Documentary Editing  
+  
 
 ---
 ### Languages and Digital Competencies  
@@ -167,3 +192,5 @@ French: Excellent reading; Advanced writing and speaking
 Italian: Advanced reading, writing, and speaking  
 Coding: Markdown; rudimentary XML, TEI, HTML, Python  
 Software: ArcGIS StoryMaps, GitHub Pages  
+Johns Hopkins University Teaching Academy Teaching Certificate
+
