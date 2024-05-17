@@ -3,7 +3,14 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-[Full version PDF](/Palazzolo_Grad_CV.pdf) (Updated May 17, 2024)
+[Full version PDF](/Palazzolo_Grad_CV.pdf) (Updated May 17, 2024)  
+
+## Curriculum Vitae
+Johns Hopkins University  
+Department of History  
+Gilman Hall, Bowman Drive, Baltimore, MD 21218  
+![epalazz1@jhu.edu](mailto:epalazz1@jhu.edu) | (804) 357-3037  
+
 
 ### Education
 
