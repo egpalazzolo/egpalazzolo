@@ -113,9 +113,9 @@ Department of Languages, Literatures, and Cultures University of Richmond
 
 
 #### 2023  
-“Developing ‘Kinship and Longing: Keywords for Black Louisiana’” with Chenise Calhoun (Tulane) and Jamya Davis (Xavier NOLA) for DH Caucus panel “Accountability, Affirmations and Algorithms: Digital Approaches to Critical Race & Ethnic Studies,” *American Studies Association*, Montreal, QB, November. (forthcoming) 
+“Developing ‘Kinship and Longing: Keywords for Black Louisiana’” with Chenise Calhoun (Tulane) and Jamya Davis (Xavier NOLA) for DH Caucus panel “Accountability, Affirmations and Algorithms: Digital Approaches to Critical Race & Ethnic Studies,” *American Studies Association*, Montreal, QB, November. 
 
-“Bringing DH to the Classroom with StoryMaps” with Dr. Casey Lurtz (JHU), *Digital Pedagogy Institute*, virtual, August. (forthcoming)  
+“Bringing DH to the Classroom with StoryMaps” with Dr. Casey Lurtz (JHU), *Digital Pedagogy Institute*, virtual, August. 
 
 Chair of "Using Digital Public History to Uncover Black Lives Next Door" *Keystone DH*, Baltimore, MD, June.
 
@@ -129,13 +129,13 @@ Chair of "Using Digital Public History to Uncover Black Lives Next Door" *Keysto
 “Finding the Sources: Teaching Historical Methods with StoryMaps” with Dr. Casey Lurtz (JHU), *ESRI User Conference Education Summit*, San Diego, CA, July. (prepared and submitted, unable to attend)  
 
 #### 2021  
-“Keywords for Black Louisiana: Digital Histories of the Gulf Coast,” member of panel presentation, *American Historical Association*, New Orleans, LA, January.  
-
-“Textual Recovery and Scholarly Editing in Intersectional and Black DH” guest lecture for Fall 2021 course “Out of the Archives,” instructed by Dr. Guadalupe Garcia, *Tulane University*, virtual, November.  
+ “Textual Recovery and Scholarly Editing in Intersectional and Black DH” guest lecture for Fall 2021 course “Out of the Archives,” instructed by Dr. Guadalupe Garcia, *Tulane University*, virtual, November.  
 
 “Semester-Long StoryMaps Research Assignment for Modern Latin American History Survey Course” with Dr. Casey Lurtz, *Bloomberg School of Public Health GIS Day*, virtual, November.  
 
-“Keywords for Black Louisiana: Digitizing the Colonial Archive,” with Olivia Barnard (JHU), Emma Bilski (JHU), Leila K. Blackbird (UChicago), and Dr. Jessica Marie Johnson (JHU), *Association for Documentary Editing*, virtual, July.
+“Keywords for Black Louisiana: Digitizing the Colonial Archive,” with Olivia Barnard (JHU), Emma Bilski (JHU), Leila K. Blackbird (UChicago), and Dr. Jessica Marie Johnson (JHU), *Association for Documentary Editing*, virtual, July.  
+
+“Keywords for Black Louisiana: Digital Histories of the Gulf Coast,” member of panel presentation, *American Historical Association*, New Orleans, LA, January. 
 
 #### 2019  
 “‘In union there is strength’:  Professional and Religious Organization among 
