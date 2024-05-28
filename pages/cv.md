@@ -9,7 +9,7 @@ permalink: /cv/
 Johns Hopkins University  
 Department of History  
 Gilman Hall, Bowman Drive, Baltimore, MD 21218  
-![epalazz1@jhu.edu](mailto:epalazz1@jhu.edu) | (804) 357-3037  
+[epalazz1@jhu.edu](mailto:epalazz1@jhu.edu) | (804) 357-3037  
 
 
 ### Education
@@ -126,7 +126,7 @@ Chair of "Using Digital Public History to Uncover Black Lives Next Door" *Keysto
 “Keywords for Black Louisiana” with Dr. Jessica Marie Johnson (JHU), “Towards the Development of a Community for Digital Edition Publishing,” *UVA-CDE*, Charlottesville, VA, September.
 
 
-“Finding the Sources: Teaching Historical Methods with StoryMaps” with Dr. Casey Lurtz (JHU), *ESRI User Conference Education Summit*, San Diego, CA, July. (prepared and submitted, unable ot attend)  
+“Finding the Sources: Teaching Historical Methods with StoryMaps” with Dr. Casey Lurtz (JHU), *ESRI User Conference Education Summit*, San Diego, CA, July. (prepared and submitted, unable to attend)  
 
 #### 2021  
 “Keywords for Black Louisiana: Digital Histories of the Gulf Coast,” member of panel presentation, *American Historical Association*, New Orleans, LA, January.  
@@ -170,11 +170,11 @@ TEI/XML Workshop with Dr. Alex Gil, Columbia University, co-sponsored by
 ---
 ### Fellowships, Scholarships, and Awards  
 **2024-25**	| Winterthur Library Short-Term Research Fellowship ($1,250)  
-**2024-25**	| Steinberg Fellowship, Johns Hopkins University ($2,000)  
+**2024-25**	| Steinberg Fellowship, Department of History, Johns Hopkins University ($2,000)  
 **2024-25**	| Dean’s Teaching Fellowship, JHU Krieger School of Arts and Sciences ($13,455)  
 **2022-23**	| Digital Dissertation Fellow, JHU Center for Digital Humanities and Diaspora Solidarities Lab (Mellon Foundation, MSU, JHU; $32,500)  
 **2023** | John Russell-Wood Memorial Conference Travel Grant  
-**2022** | Sidney W. Mintz Fellowship, Johns Hopkins University ($3000)  
+**2022** | Sidney W. Mintz Fellowship, Department of Anthropology, Johns Hopkins University ($3000)  
 **2015-19**	| Richmond Scholars Program, Boatwright Scholars, D. Chris Withers (full tuition)  
 **2019** | David C. Evans Award for Outstanding Achievement in Scholarship  
 **2019** | Epps Award for Outstanding Four-Year Academic Record in Westhampton College  
@@ -197,7 +197,7 @@ Association for Documentary Editing
 English: L1 fluency  
 French: Excellent reading; Advanced writing and speaking  
 Italian: Advanced reading, writing, and speaking  
-Coding: Markdown; rudimentary XML, TEI, HTML, Python  
-Software: ArcGIS StoryMaps, GitHub Pages  
+Coding: Markdown, TEI; rudimentary HTML, CSS, Liquid; basic Python  
+Software: ArcGIS StoryMaps, GitHub Pages, WordPress  
 Johns Hopkins University Teaching Academy Teaching Certificate
 
