@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-Please find below the syllabi for the two courses that I have developed as Instructor of Record. I am happy to share additional resources that I have developed for specific assignments upon request.
+Please find below the syllabi for the two courses that I have developed as Instructor of Record. I am happy to share additional resources that I have created for specific assignments upon request.
 
 [Cookbook Politics: Reading and Writing U.S. Culinary History (Fall 2021)](https://drive.google.com/file/d/1085nTHfoA0HWcivAln-rRRxJ-3Z8fumm/view?usp=sharing)  
 A six-week, one-credit course developed for the "Student Opportunities in Undergraduate Learning" program at Johns Hopkins.
