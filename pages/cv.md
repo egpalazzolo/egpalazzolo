@@ -25,7 +25,7 @@ Gilman Hall, Bowman Drive, Baltimore, MD 21218
 
 ---
 ### Research and Grants
-**2020-Present** |
+**2020-2024** |
 Keywords for Black Louisiana, Enslaved and Free in Gulf Coast Louisiana with LifexCode: DH Against Digital Enclosure
 Project Manager (2023-Present), Digital Strategist  (2020-2023)
 
@@ -49,7 +49,7 @@ Undergraduate Research Fellow under Dr. Olivier Delers, University of Richmond, 
 
 **Fall 2024** | 
 *Instructor for Farming America: Food and Power in U.S. History*  
-Developed a full semester course in the History department (listed)
+Developed a full-semester course in the History department
 
 **Summer 2023, 2024** | 
 *Group Facilitator for JHU Teaching Academy’s Institute Summer Institutes*  
@@ -105,7 +105,7 @@ Department of Languages, Literatures, and Cultures University of Richmond
 
 
 #### 2024
-“TEI for Black DH: A Conversation between Revue des Colonies and Keywords for Black Louisiana,” panel member, Textual Encoding Initiative, Buenos Aires, AR, Oct. (submitted)  
+“TEI for Black DH: A Conversation between Revue des Colonies and Keywords for Black Louisiana,” panel member, Textual Encoding Initiative, Buenos Aires, AR, Oct.  
 
 “Kinship & (Be)Longing: Confronting Slavery’s Archive through Critical Black DH,” with Olivia Barnard (JHU), Leila Blackbird (UChicago), Dr. Jessica Marie Johnson (JHU), MITH Digital Dialogues, College Park, MD, Apr.  
 
