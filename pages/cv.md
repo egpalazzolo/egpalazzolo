@@ -171,7 +171,7 @@ TEI/XML Workshop with Dr. Alex Gil, Columbia University, co-sponsored by
 ### Fellowships, Scholarships, and Awards  
 **2024-25**	| Winterthur Library Short-Term Research Fellowship ($1,250)  
 **2024-25**	| Steinberg Fellowship, Department of History, Johns Hopkins University ($2,000)  
-**2024-25**	| Dean’s Teaching Fellowship, JHU Krieger School of Arts and Sciences ($13,455)  
+**2024-25**	| Dean’s Teaching Fellowship, JHU Krieger School of Arts and Sciences ($23,500)  
 **2022-23**	| Digital Dissertation Fellow, JHU Center for Digital Humanities and Diaspora Solidarities Lab (Mellon Foundation, MSU, JHU; $32,500)  
 **2023** | John Russell-Wood Memorial Conference Travel Grant  
 **2022** | Sidney W. Mintz Fellowship, Department of Anthropology, Johns Hopkins University ($3000)  
