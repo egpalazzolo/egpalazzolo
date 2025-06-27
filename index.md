@@ -8,4 +8,5 @@ I am a historian and food studies scholar with a focus on labor and consumer cul
   
 Also a student of the digital humanities, I am interested in critical, post-colonial, and Black DH applied to textual editing, sustainable design (minimal computing), and pedagogy.
 
-![headshot](/palazzolo.jpeg)
+<img src="palazzolo.jpeg" width="300" height="382">
+
