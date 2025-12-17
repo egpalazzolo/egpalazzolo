@@ -3,4 +3,4 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-[Full version PDF](/Palazzolo_Fall2025.pdf) (Updated April 2025)
+[Full version PDF](/Palazzolo_Fall2025.pdf) (Updated December 2025)
